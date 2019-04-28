@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80bebe73f4935df6a8b12a9d7e9e4378",
+    "revision": "27fe7c546576c7f4458d5c4896680780",
     "url": "/Flex-On-Your-Space-Boo-Frontend/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Flex-On-Your-Space-Boo-Frontend/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "c15d56e6f93ac6654431",
-    "url": "/Flex-On-Your-Space-Boo-Frontend/static/css/main.deb61f98.chunk.css"
+    "revision": "ec9c64aaf8f0138f406b",
+    "url": "/Flex-On-Your-Space-Boo-Frontend/static/css/main.09233f80.chunk.css"
   },
   {
     "revision": "d859cb8fda8ab5f49f1a",
     "url": "/Flex-On-Your-Space-Boo-Frontend/static/js/2.2b2bd1f9.chunk.js"
   },
   {
-    "revision": "c15d56e6f93ac6654431",
-    "url": "/Flex-On-Your-Space-Boo-Frontend/static/js/main.5d0031eb.chunk.js"
+    "revision": "ec9c64aaf8f0138f406b",
+    "url": "/Flex-On-Your-Space-Boo-Frontend/static/js/main.ce56e858.chunk.js"
   },
   {
     "revision": "cf2dd0026cb42b8424b4",

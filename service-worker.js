@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/Flex-On-Your-Space-Boo-Frontend/precache-manifest.10bc45e56fabdee67f8f366443564a7d.js"
+  "/Flex-On-Your-Space-Boo-Frontend/precache-manifest.7bac431fe443b903dc2f712b49281d4b.js"
 );
 
 self.addEventListener('message', (event) => {

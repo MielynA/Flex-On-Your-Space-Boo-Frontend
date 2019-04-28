@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Flex-On-Your-Space-Boo-Frontend/static/css/main.deb61f98.chunk.css",
-    "main.js": "/Flex-On-Your-Space-Boo-Frontend/static/js/main.5d0031eb.chunk.js",
-    "main.js.map": "/Flex-On-Your-Space-Boo-Frontend/static/js/main.5d0031eb.chunk.js.map",
+    "main.css": "/Flex-On-Your-Space-Boo-Frontend/static/css/main.09233f80.chunk.css",
+    "main.js": "/Flex-On-Your-Space-Boo-Frontend/static/js/main.ce56e858.chunk.js",
+    "main.js.map": "/Flex-On-Your-Space-Boo-Frontend/static/js/main.ce56e858.chunk.js.map",
     "runtime~main.js": "/Flex-On-Your-Space-Boo-Frontend/static/js/runtime~main.130763eb.js",
     "runtime~main.js.map": "/Flex-On-Your-Space-Boo-Frontend/static/js/runtime~main.130763eb.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/Flex-On-Your-Space-Boo-Frontend/static/css/2.22a7d4ef.chunk.css",
     "static/js/2.2b2bd1f9.chunk.js": "/Flex-On-Your-Space-Boo-Frontend/static/js/2.2b2bd1f9.chunk.js",
     "static/js/2.2b2bd1f9.chunk.js.map": "/Flex-On-Your-Space-Boo-Frontend/static/js/2.2b2bd1f9.chunk.js.map",
     "index.html": "/Flex-On-Your-Space-Boo-Frontend/index.html",
-    "precache-manifest.10bc45e56fabdee67f8f366443564a7d.js": "/Flex-On-Your-Space-Boo-Frontend/precache-manifest.10bc45e56fabdee67f8f366443564a7d.js",
+    "precache-manifest.7bac431fe443b903dc2f712b49281d4b.js": "/Flex-On-Your-Space-Boo-Frontend/precache-manifest.7bac431fe443b903dc2f712b49281d4b.js",
     "service-worker.js": "/Flex-On-Your-Space-Boo-Frontend/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/Flex-On-Your-Space-Boo-Frontend/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.deb61f98.chunk.css.map": "/Flex-On-Your-Space-Boo-Frontend/static/css/main.deb61f98.chunk.css.map",
+    "static/css/main.09233f80.chunk.css.map": "/Flex-On-Your-Space-Boo-Frontend/static/css/main.09233f80.chunk.css.map",
     "static/media/app.css": "/Flex-On-Your-Space-Boo-Frontend/static/media/space_background.25959697.jpg",
     "static/media/spaceCard.css": "/Flex-On-Your-Space-Boo-Frontend/static/media/squiggly_arrow.030f10c7.png"
   }
