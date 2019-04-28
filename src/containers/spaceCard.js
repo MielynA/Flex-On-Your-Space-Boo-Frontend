@@ -9,7 +9,7 @@ export default class SpaceCard extends React.Component {
         super(props);
         this.state = {
             date: "", 
-            spaceDate: "", 
+            spacedate: "", 
             description: "", 
             fromname: "", 
             horoscropesign: "", 
@@ -26,9 +26,10 @@ export default class SpaceCard extends React.Component {
         const id = this.props.match.params.id;
         CardAxiosService.getSpaceCard(id)
         .then(({msg}) => {
+            
             const {
                 date, 
-                spaceDate, 
+                spacedate, 
                 description, 
                 fromname, 
                 horoscropesign, 
@@ -39,9 +40,10 @@ export default class SpaceCard extends React.Component {
                 toname,
              } = msg;
              
+             
 
             this.setState({ date, 
-                spaceDate, 
+                spacedate, 
                 description, 
                 fromname, 
                 horoscropesign, 
@@ -57,7 +59,7 @@ export default class SpaceCard extends React.Component {
 
        const {
            date, 
-           spaceDate, 
+           spacedate, 
            description, 
            fromname, 
            horoscropesign, 
@@ -80,9 +82,9 @@ export default class SpaceCard extends React.Component {
                     <div className='spaceCard-heart'></div>
                     <div className='spaceCard-imageBox' style={{backgroundImage: `url(${img_url})`}}>
                         <p className='spaceCard-center-flirt'>I'm attracted to you like the Earth is attracted to the Sun-with a large force inversely proportional to the distance squared</p>
-                        <p className='space-grey spaceCard-date-right'>{moment(date).subtract(10, 'days').calendar()}</p>
+                        <p className='space-grey spaceCard-date-right'>{moment(spacedate).subtract(10, 'days').calendar()}</p>
                         <p className='space-grey spaceCard-horoscope-right'>{horoscropesign}</p>
-                        <p className='space-grey spaceCard-date-left'>{moment(date).subtract(10, 'days').calendar()}</p>
+                        <p className='space-grey spaceCard-date-left'>{moment(spacedate).subtract(10, 'days').calendar()}</p>
                         <p className='space-grey spaceCard-horoscope-left'>{horoscropesign}</p>
                     </div>
                     <div className='spaceCard-Lorem'>
