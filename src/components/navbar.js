@@ -8,7 +8,9 @@ const Navbar = () => {
   <div className="form-inline">
   <ul className="nav justify-content-end">
   <li className="nav-item">
-  <Link className="nav-link active" to="/">Home</Link>
+  <Link className="nav-link active" to="/">
+  <div className="earth_home_button"></div>
+  </Link>
   </li>
   </ul>
   </div>
