@@ -49,12 +49,13 @@
 }
 
 .earth_home_button {
-    width: 30px;
-    height: 30px;
+    width: 200px;
+    height: 200px;
     border-radius: 100%;
     background-image: url("./assets/earth.png");
     background-position: center;
     background-size: contain;
+    box-shadow: 9px 9px 9px 0px #7d7d7d9c;
 }
 
 h1 {
