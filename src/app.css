@@ -30,9 +30,9 @@
     grid-auto-rows: repeat(4, 25%);
     grid-template-areas: 
     ". . . ."
-    "page-container page-container page-container navbar"
-    "page-container page-container page-container navbar"
-    "page-container page-container page-container navbar";
+    "page-container page-container page-container navbar-comp"
+    "page-container page-container page-container navbar-comp"
+    "page-container page-container page-container navbar-comp";
 }
 
 .page-container {
@@ -42,8 +42,8 @@
     margin: 20px; 
 }
 
-.navbar {
-    grid-area: navbar;
+.navbar-comp {
+    grid-area: navbar-comp;
     align-self: center;
     justify-self: end;
 }
