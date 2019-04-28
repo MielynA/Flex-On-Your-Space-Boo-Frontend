@@ -6,6 +6,7 @@ import Navbar from './components/navbar';
 import Home from './components/home';
 import SpaceCard from './containers/spaceCard';
 
+
 function App() {
   return (
     <div>
