@@ -84,3 +84,27 @@ nav {
 .welcomeFont {
     font-family: 'Space Mono', monospace;
 }
+
+.field {
+    width: 100%;
+    height: 56px;
+    border-radius: 4px;
+    position: relative;
+    background-color: rgba(255,255,255,0.3);
+    transition: 0.3s all;
+    color: white;
+  }
+  .field:hover {
+    background-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.05);
+  }
+
+  .field::placeholder { 
+    color: white;
+    opacity: 1; 
+  }
+
+  .form-align {
+    margin: 0 auto;
+  }
+
